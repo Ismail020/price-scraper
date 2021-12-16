@@ -60,6 +60,6 @@
         <title>Document</title>
     </head>
     <body>
-        <a href="index.php">Ga terug als alles goed is!</a>
+        <a href="index.php">Go back!</a>
     </body>
     </html>
