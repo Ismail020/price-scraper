@@ -1,5 +1,5 @@
 # Price scraper
-A scraper site to compare prices in a chart
+A scraper site to compare prices in a chart  
 I included import.sql and scraper.sql so you can see how the site works with data in the database  
 
 ## Usage
