@@ -6,7 +6,6 @@ ini_set('user_agent', 'My-Application/2.5');
 $htmlmm = file_get_html('https://www.mediamarkt.nl/nl/product/_apple-macbook-air-13-3-2020-zilver-m1-256-gb-1681033.html');
 $mbmm = $htmlmm->find('div[class="price big"]');
 
-//amac extra
 $htmlamac = file_get_html('https://www.amac.nl/apple-macbook-air-13-inch-m1-chip-8c-cpu-7c-gpu-8gb-256gb-zilver-2020');
 $mbamac = $htmlamac->find('span[id="product-price-73507"]');
 
