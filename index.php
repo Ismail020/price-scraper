@@ -49,8 +49,6 @@ include_once('conn.php');
             </table>
             <div class="col-6">
                 <button type="button" class="btn btn-outline-dark"><a href="update.php">Update prijzen</a></button>
-                <button type="button" class="btn btn-outline-dark"><a href="<?php $_SERVER['PHP_SELF']; ?>">Herlaad Tabel</a></button>
-                
             </div>
         </div>
         <div class="container">
