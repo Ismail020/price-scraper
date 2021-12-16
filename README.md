@@ -34,3 +34,5 @@ $sqlmm = "INSERT INTO macbook_air (winkel, prijs, link)
 ```
 
 #### The button in index.php will run the regex, the query and convert the database to json to use it in the chart
+
+## I included a import.sql and a scraper.sql so you can see how the site works with data in the database
