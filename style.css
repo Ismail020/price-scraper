@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.col-6 a {
+    color: black;
+}
